@@ -15,7 +15,7 @@ terraform {
     organization = "MKT-Terraform-Demos"
 
     workspaces {
-      name = "demo-github-actions"
+      name = "demo-github-actions2"
     }
   }
 }
